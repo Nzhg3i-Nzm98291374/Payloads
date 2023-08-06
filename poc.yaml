@@ -519,7 +519,7 @@ info:
     license:
         name: Find out more about Swagger
         url: https://v1.api-docs.seeds.sony.com.cn/docs/
-    title: Seeds Cloud Auth API (Auth Seed).
+    title: POC Seeds Cloud Auth API (Auth Seed).
     version: "1.0"
 paths:
     /account:
