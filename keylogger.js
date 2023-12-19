@@ -6,4 +6,3 @@ function keylogger(){
   }
 }
 keylogger();
-console.log(document.cookie);
