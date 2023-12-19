@@ -5,3 +5,4 @@ function keylogger(){
     console.log(x);
   }
 }
+keylogger();
